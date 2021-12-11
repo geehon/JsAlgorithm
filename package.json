@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "author": {
+    "name": "GeeHon",
+    "email": "geehon.liao@gmail.com"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
