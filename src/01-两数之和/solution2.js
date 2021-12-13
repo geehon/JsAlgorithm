@@ -9,4 +9,4 @@ function solution2 (nums, target) {
   return [];
 }
 
-module.exports = solution2
+module.exports = solution2;
